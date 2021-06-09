@@ -1,4 +1,0 @@
-
-function filterCars(cars, filters) {
-
-}
