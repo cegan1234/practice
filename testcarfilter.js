@@ -1,4 +1,6 @@
+describe('test car filters', () => {
 
-function filterCars(cars, filters) {
-
-}
+  it('return empty array if empty array passed in', () => {
+    expect()
+  })
+})
