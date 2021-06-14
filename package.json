@@ -1,0 +1,24 @@
+{
+  "name": "connor-practice-repo",
+  "version": "1.0.0",
+  "description": "Connor is playing with code",
+  "main": "carFilter.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cegan1234/practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cegan1234/practice/issues"
+  },
+  "homepage": "https://github.com/cegan1234/practice#readme",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.0.0",
+    "underscore": "^1.13.1"
+  }
+}
