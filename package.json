@@ -4,7 +4,8 @@
   "description": "Connor is playing with code",
   "main": "carFilter.js",
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha ./car-filter-practice/carFilterTest.js"
+    "test": "./node_modules/mocha/bin/mocha ./car-filter-practice/carFilterTest.js",
+    "test-windows": ".\node_modules\mocha\bin\mocha .\car-filter-practice\carFilterTest.js",
   },
   "repository": {
     "type": "git",
